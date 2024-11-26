@@ -6,7 +6,7 @@ import upload_area from './upload_area.png'
 import parcel_icon from './parcel_icon.png'
 
 export const url = 'https://doordish-backend.onrender.com'
-export const currency = '$'
+export const currency = 'AED'
 
 export const assets ={
     logo,
